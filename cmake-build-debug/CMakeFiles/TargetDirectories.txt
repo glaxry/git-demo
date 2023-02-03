@@ -1,0 +1,3 @@
+D:/c_exercise/git-demo/cmake-build-debug/CMakeFiles/git_demo.dir
+D:/c_exercise/git-demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c_exercise/git-demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
